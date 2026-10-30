@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+NUL
+=*
+
+# Large files
+data/
+models/
+outputs/
+*.pt
+*.pth
+*.safetensors
+*.zip
